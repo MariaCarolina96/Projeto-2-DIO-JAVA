@@ -1,0 +1,3 @@
+http://localhost:8080/h2-console/login.jsp?jsessionid=060f39ac573910c1aeabc68306c6513f
+
+JDBC URL: jdbc:h2:mem:testdb
